@@ -3,26 +3,68 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://arethereanyusernamesleft.github.io/areThereAnyUserNamesLeft/about/desc/</loc>
+    <loc>http://arethereanyusernamesleft.github.io/post/whatelse/</loc>
+    <lastmod>2018-05-12T19:25:19+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://arethereanyusernamesleft.github.io/areThereAnyUserNamesLeft/about/</loc>
+    <loc>http://arethereanyusernamesleft.github.io/post/firstimpressions/</loc>
+    <lastmod>2018-05-12T15:35:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://arethereanyusernamesleft.github.io/about/desc/</loc>
+  </url>
+  
+  <url>
+    <loc>http://arethereanyusernamesleft.github.io/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://arethereanyusernamesleft.github.io/areThereAnyUserNamesLeft/categories/</loc>
+    <loc>http://arethereanyusernamesleft.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://arethereanyusernamesleft.github.io/areThereAnyUserNamesLeft/tags/</loc>
+    <loc>http://arethereanyusernamesleft.github.io/tags/else/</loc>
+    <lastmod>2018-05-12T19:25:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://arethereanyusernamesleft.github.io/areThereAnyUserNamesLeft/</loc>
+    <loc>http://arethereanyusernamesleft.github.io/tags/golang/</loc>
+    <lastmod>2018-05-12T15:35:16+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://arethereanyusernamesleft.github.io/tags/if/</loc>
+    <lastmod>2018-05-12T19:25:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://arethereanyusernamesleft.github.io/tags/noobs/</loc>
+    <lastmod>2018-05-12T15:35:16+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://arethereanyusernamesleft.github.io/post/</loc>
+    <lastmod>2018-05-12T19:25:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://arethereanyusernamesleft.github.io/tags/</loc>
+    <lastmod>2018-05-12T19:25:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://arethereanyusernamesleft.github.io/</loc>
+    <lastmod>2018-05-12T19:25:19+01:00</lastmod>
     <priority>0</priority>
   </url>
   
