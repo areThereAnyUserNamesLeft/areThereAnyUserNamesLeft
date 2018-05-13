@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Plots on Written using Hugo</title>
-    <link>/arethereanyusernamesleft.github.io/areThereAnyUserNamesLeft/plot/</link>
+    <link>http://arethereanyusernamesleft.github.io/areThereAnyUserNamesLeft/plot/</link>
     <description>Recent content in Plots on Written using Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <lastBuildDate>Sun, 13 May 2018 19:56:04 +0100</lastBuildDate>
     
-	<atom:link href="/arethereanyusernamesleft.github.io/areThereAnyUserNamesLeft/plot/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://arethereanyusernamesleft.github.io/areThereAnyUserNamesLeft/plot/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>BoldlyGoing</title>
-      <link>/arethereanyusernamesleft.github.io/areThereAnyUserNamesLeft/plot/boldlygoing/</link>
+      <link>http://arethereanyusernamesleft.github.io/areThereAnyUserNamesLeft/plot/boldlygoing/</link>
       <pubDate>Sun, 13 May 2018 19:56:04 +0100</pubDate>
       
-      <guid>/arethereanyusernamesleft.github.io/areThereAnyUserNamesLeft/plot/boldlygoing/</guid>
+      <guid>http://arethereanyusernamesleft.github.io/areThereAnyUserNamesLeft/plot/boldlygoing/</guid>
       <description></description>
     </item>
     
